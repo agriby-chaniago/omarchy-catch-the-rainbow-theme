@@ -21,3 +21,7 @@ The previous personal bundle was exercised on the author's active desktop. The p
 ## Limits
 
 No reboot, interactive lock/unlock, OS upgrade, or cross-version plugin update is part of this beta's validation. Screenshots use an isolated session and example terminal/editor content. Theme colors and native installation are verified separately from any claims about hardware brightness, battery use or performance.
+
+## Recorded results
+
+The [native URL install report](native-install.json) records the public GitHub commit tested, all 93 shell override values, generated configs and the wallpaper hash check. The [full-bundle archive report](full-bundle-verification.json) records the published archive checksum, extracted CLI install/restore result, and the byte-identical cursor rebuild.

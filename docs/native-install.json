@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "url": "https://github.com/agriby-chaniago/omarchy-catch-the-rainbow-theme",
+  "commit": "64f3895e4643df249ae7baac71fd555241b3ed50",
+  "omarchy": "4.0.6-1",
+  "freshHome": true,
+  "nativeRepositoryInstall": true,
+  "headlessNoActiveSession": true,
+  "generatedTerminalAndEditorConfigs": true,
+  "shellOverrideValuesChecked": 93,
+  "wallpaperMatchesSelectedOriginal": true,
+  "customPluginsOrHooksInstalled": false
+}

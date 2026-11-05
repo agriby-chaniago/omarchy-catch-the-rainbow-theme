@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0-beta.1",
+  "archive": "catch-the-rainbow-full-1.0.0-beta.1.tar.gz",
+  "sha256": "a6d07298e19547cd5f90e197289b93ee1dd9c482123567d910cd641f7bb186e4",
+  "bytes": 7812183,
+  "extractedCliInstallRestore": true,
+  "cursorSourceRebuildIdentical": true
+}
