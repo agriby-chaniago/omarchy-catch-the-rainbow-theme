@@ -1,0 +1,27 @@
+name: Report a problem
+description: Include the install mode and Omarchy version so the issue can be reproduced.
+title: "[Bug]: "
+body:
+  - type: dropdown
+    id: mode
+    attributes:
+      label: Installation
+      options:
+        - Standard native theme
+        - Optional full desktop bundle
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Omarchy version
+      description: Output of `omarchy version`.
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Include steps to reproduce, what you expected and any relevant errors. Remove private information from screenshots.
+    validations:
+      required: true
